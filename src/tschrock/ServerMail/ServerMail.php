@@ -77,7 +77,7 @@ class ServerMail extends PluginBase implements Listener {
      * @param array $args The arguments with the command.
      * @return boolean Wether or not the command succeded.
      */
-    public function onCommand(CommandSender $sender, Command $command, $label, array $args) {
+    public function onCommand(CommandSender $sender, Command $command, string $label, array $args): bool {
         switch ($command->getName()) {
             case "mail":
             case $this->getMessage("commands.names.mail"):
