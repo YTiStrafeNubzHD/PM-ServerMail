@@ -1,3 +1,5 @@
+[![HitCount](http://hits.dwyl.io/YTiStrafeNubzHD/PM-ServerMail.svg)](http://hits.dwyl.io/YTiStrafeNubzHD/PM-ServerMail)
+
 ServerMail
 ==========
 A PocketMine plugin that lets you send each other messages, even when the other person is offline. You can view your messages anytime, and clear them with a simple command. It also tells you how many messages you have when you login and has a customizable message to new players!
